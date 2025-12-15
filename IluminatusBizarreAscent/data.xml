@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product>
+  <title>Iluminatus Bizarre Ascent</title>
+  <release-date>November 19 2025</release-date>
+  <website></website>
+
+  <!-- Link to request press copy: -->
+  <press-copy-request></press-copy-request>
+
+  <platforms>
+    <platform>
+      <name>Steam</name>
+      <link> https://store.steampowered.com/app/4049270/Iluminatus_Bizarre_Ascent/ </link>
+    </platform>
+  </platforms>
+
+  <prices>
+    <price>
+      <currency>USD</currency>
+      <value>5.99</value>
+    </price>
+    <price>
+      <currency>MXN</currency>
+      <value>69</value>
+    </price>
+  </prices>
+
+  <description>Jump and survive! Help Iluminatus escape a bizarre world full of mutant viruses, creepy llamas, aliens, and powerful bosses! Unlock abilities, climb puzzling levels, or test your skills in endless mode.
+</description>
+
+  <!-- Choose between a single block: -->
+  <histories>
+    <history>
+      <header>Idea</header>
+      <text> Climb massive pyramids, hopping from platform to platform to reach the summit. Every level is a new puzzle that will challenge your wits and skills.</text>
+    </history>
+    <history>
+      <header>Development</header>
+      <text> Climb massive pyramids, hopping from platform to platform to reach the summit. Every level is a new puzzle that will challenge your wits and skills.</text>
+      </history>
+  </histories>
+
+  <!-- Or multiple blocks: -->
+  <!--
+  <histories>
+    <history>
+      <header></header>
+      <text></text>
+    </history>
+  </histories>
+  -->
+
+  <features>
+    <feature>Simple control just jump and some powerups.</feature>
+    <feature>Retro look and feel. </feature>
+    <feature>A lot of colorfull skins.</feature>
+    <feature>Funny story related to my channel which can be enjoyed by fans of the channel or fans of the genre.</feature>
+
+
+  </features>
+
+  <trailers>
+    <trailer>
+      <name>Trailer</name>
+
+      <!-- Pick one: -->
+      <youtube>
+        <!-- Video ID only, not the full URL --> y9UZbcIjtp8
+      </youtube>
+    </trailer>
+  </trailers>
+
+  <!-- You can set your widgets here (optional): -->
+  <widgets>
+    <steam>
+    4049270
+    </steam>
+  </widgets>
+
+
+  <contacts>
+    <contact>
+      <name>Inquiries</name>
+
+      <!-- Pick one: -->
+      <mail>theiluminatus@gmail.com</mail>
+      <link></link>
+    </contact>
+    <contact>
+      <name>Facebook</name>
+      <link>https://www.facebook.com/TheIluminatus/</link>
+    </contact>
+        <contact>
+      <name>Instagram</name>
+      <link>https://www.instagram.com/theiluminatus</link>
+    </contact>
+  </contacts>
+</product>

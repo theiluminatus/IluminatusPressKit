@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<company>
+  <title>The Iluminatus Company</title>
+  <based-in>Mexico</based-in>
+  <founding-date></founding-date>
+  <website></website>
+  <press-contact>
+    theiluminatus@gmail.com
+  </press-contact>
+
+  <!-- Google analytics ID: -->
+  <analytics></analytics>
+
+  <phone>In process</phone>
+  <address>
+    <line>
+      <!-- Street -->
+    </line>
+    <line>
+      Guadalajara
+    </line>
+    <line>
+      Mexico
+    </line>
+  </address>
+
+  <socials>
+    <social>
+      <name>Youtube</name>
+      <link>
+        https://www.youtube.com/@theiluminatus
+      </link>
+    </social>
+    <social>
+      <name>Facebook</name>
+      <link>https://www.facebook.com/TheIluminatus/</link>
+    </social>
+    <social>
+      <name>Instagram</name>
+      <link>https://www.instagram.com/theiluminatus</link>
+    </social>
+  </socials>
+
+  <description>
+The Iluminatus Company is a small independent game development studio focused on creating challenging experiences for hardcore players. The studio combines demanding gameplay mechanics with a strong sense of humor. Despite its very small team, every project is developed with great care and attention to detail, emphasizing personality and passion in every aspect of the game.
+</description>
+
+
+  <!-- Choose between a single block: -->
+  <history>
+The Iluminatus Company was founded in 2025 as a personal project. The studio was created with the goal of developing challenging games with a strong identity, while maintaining an independent approach. The team currently consists of the main creator, along with a small group of friends who help with playtesting and contribute ideas during development. Its first project, Iluminatus Bizarre Ascent, reached over 5,000 downloads with its Android demo version, achieving a 4.7 rating and marking the studio’s first milestone.
+</history>
+
+
+  <!-- Or multiple blocks: -->
+  <!--
+  <histories>
+    <history>
+      <header></header>
+      <text></text>
+    </history>
+  </histories>
+  -->
+
+  <trailers>
+    <trailer>
+      <name>First Game Early Access Announcement (Spanish)</name>
+
+      <!-- Pick one: -->
+      <youtube>
+        M3SktbFeAqE
+      </youtube>
+    </trailer>
+  </trailers>
+
+  <additionals>
+    <additional>
+      <title>Android demo</title>
+      <description></description>
+      <link>https://play.google.com/store/apps/details?id=com.DefaultCompany.Ilu</link>
+    </additional>
+  </additionals>
+
+  <credits>
+    <credit>
+      <person></person>
+      <role></role>
+
+      <!-- Optional: -->
+      <website></website>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>Iluminatus</name>
+      <!-- Pick one: -->
+      <mail>theiluminatus@gmail.com</mail>
+      <link></link>
+    </contact>
+  </contacts>
+</company>
