@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product>
+  <title>Fragments In Situ: Escape Room</title>
+  <release-date>April 2026</release-date>
+  <website></website>
+
+
+  <!-- Link to request press copy: -->
+  <press-copy-request></press-copy-request>
+
+  <platforms>
+    <platform>
+      <name>Steam</name>
+      <link> store.steampowered.com/app/4436430 </link>
+    </platform>
+  </platforms>
+
+  <prices>
+    <price>
+      <currency>USD</currency>
+      <value>9.99</value>
+    </price>
+    <price>
+      <currency>MXN</currency>
+      <value>123.99</value>
+    </price>
+  </prices>
+
+  <description>Break into quiet homes to steal valuable objects while solving increasingly unsettling puzzles. In this psychological escape-room experience, the biggest mystery may be your own mind.
+</description>
+
+  <!-- Choose between a single block: -->
+  <histories>
+    <history>
+      <header>Details</header>
+      <text> Fragments in Situ
+
+Nothing is exactly where it should be.
+
+In Fragments in Situ, you break into quiet homes in search of valuable objects. Each place hides secrets behind locked drawers, hidden compartments, and strange mechanisms that demand to be solved.
+
+But the deeper you go, the stranger things become.
+
+Rooms shift in subtle ways. Clues contradict each other. Puzzles feel less like obstacles and more like something… personal. As you search for valuables and piece together each environment, a question begins to surface:
+
+Are these puzzles protecting the house — or protecting you from what you're doing?
+
+Fragments in Situ is a psychological escape-room experience where observation, intuition, and doubt are your most important tools. Every solved puzzle reveals more fragments of a reality that may not be as stable as it seems.
+
+Explore carefully.
+Pay attention to the details.
+And try to trust what you see.</text>
+    </history>
+    
+  </histories>
+
+  <!-- Or multiple blocks: -->
+  <!--
+  <histories>
+    <history>
+      <header></header>
+      <text></text>
+    </history>
+  </histories>
+  -->
+
+  <features>
+    <feature>Psychological Escape-Room Gameplay</feature>
+    <feature>Unsettling First-Person Exploration </feature>
+    <feature>Observation-Driven Puzzles</feature>
+    <feature>A Dark and Introspective Atmosphere</feature>
+
+
+  </features>
+
+  <trailers>
+    <trailer>
+      <name>Trailer</name>
+
+      <!-- Pick one: -->
+      <youtube>
+        <!-- Video ID only, not the full URL --> aFzk6ZOvPIs
+      </youtube>
+    </trailer>
+  </trailers>
+
+  <!-- You can set your widgets here (optional): -->
+  <widgets>
+    <steam>
+    4436430
+    </steam>
+  </widgets>
+
+
+  <contacts>
+    <contact>
+      <name>Inquiries</name>
+
+      <!-- Pick one: -->
+      <mail>eisgamesdev@gmail.com</mail>
+      <link></link>
+    </contact>
+    <contact>
+      <name>Facebook</name>
+      <link>https://www.facebook.com/profile.php?id=61586963096526</link>
+    </contact>
+        <contact>
+      <name>TikTok</name>
+      <link>https://www.tiktok.com/@eis.games</link>
+    </contact>
+  </contacts>
+</product>
